@@ -1,2 +1,3 @@
 # MOVIES_RENTAL_BUSINESS
 https://github.com/Harshad820/MOVIES_RENTAL_BUSINESS/blob/main/CODE_OUTPUT/SCHEMA.png
+CODE_OUTPUT/movies.jpg
