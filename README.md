@@ -137,6 +137,6 @@ Retrieve customer first name, last name, and email ID.
 ![Actors per Title](https://github.com/Harshad820/MOVIES_RENTAL_BUSINESS/blob/main/CODE_OUTPUT/28.png)
 
 ### 28. List of Staff and Advisors
-![Staff and Advisors](https://github.com/Harshad820/MOVIES_RENTAL_BUSINESS/blob/main/CODE_OUTPUT/30.png)
+![Staff and Advisors](https://github.com/Harshad820/MOVIES_RENTAL_BUSINESS/blob/main/CODE_OUTPUT/31.png)
 
 ---
