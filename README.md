@@ -122,7 +122,7 @@ Retrieve customer first name, last name, and email ID.
 ![Longest Films](https://github.com/Harshad820/MOVIES_RENTAL_BUSINESS/blob/main/CODE_OUTPUT/22.png)
 
 ### 23. Categorization of Movies by Length
-![Movies Categorized by Length](https://github.com/Harshad820/MOVIES_RENTAL_BUSINESS/blob/main/CODE_OUTPUT/21.png)
+![Movies Categorized by Length](https://github.com/Harshad820/MOVIES_RENTAL_BUSINESS/blob/main/CODE_OUTPUT/23.png)
 
 ### 24. Movie Recommendations by Age Group
 ![Age-Based Recommendations](https://github.com/Harshad820/MOVIES_RENTAL_BUSINESS/blob/main/CODE_OUTPUT/24.png)
