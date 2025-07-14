@@ -122,21 +122,21 @@ Retrieve customer first name, last name, and email ID.
 ![Longest Films](https://github.com/Harshad820/MOVIES_RENTAL_BUSINESS/blob/main/CODE_OUTPUT/22.png)
 
 ### 23. Categorization of Movies by Length
-![Movies Categorized by Length](https://github.com/Harshad820/MOVIES_RENTAL_BUSINESS/blob/main/CODE_OUTPUT/22.png)
+![Movies Categorized by Length](https://github.com/Harshad820/MOVIES_RENTAL_BUSINESS/blob/main/CODE_OUTPUT/21.png)
 
 ### 24. Movie Recommendations by Age Group
-![Age-Based Recommendations](https://github.com/Harshad820/MOVIES_RENTAL_BUSINESS/blob/main/CODE_OUTPUT/23.png)
+![Age-Based Recommendations](https://github.com/Harshad820/MOVIES_RENTAL_BUSINESS/blob/main/CODE_OUTPUT/24.png)
 
 ### 25. Films Inventory List
-![Films in Inventory](https://github.com/Harshad820/MOVIES_RENTAL_BUSINESS/blob/main/CODE_OUTPUT/24.png)
+![Films in Inventory](https://github.com/Harshad820/MOVIES_RENTAL_BUSINESS/blob/main/CODE_OUTPUT/26.png)
 
 ### 26. Actor Movie Count
-![Actor Movie Count](https://github.com/Harshad820/MOVIES_RENTAL_BUSINESS/blob/main/CODE_OUTPUT/25.png)
+![Actor Movie Count](https://github.com/Harshad820/MOVIES_RENTAL_BUSINESS/blob/main/CODE_OUTPUT/27.png)
 
 ### 27. Number of Actors per Film
-![Actors per Title](https://github.com/Harshad820/MOVIES_RENTAL_BUSINESS/blob/main/CODE_OUTPUT/26.png)
+![Actors per Title](https://github.com/Harshad820/MOVIES_RENTAL_BUSINESS/blob/main/CODE_OUTPUT/28.png)
 
 ### 28. List of Staff and Advisors
-![Staff and Advisors](https://github.com/Harshad820/MOVIES_RENTAL_BUSINESS/blob/main/CODE_OUTPUT/27.png)
+![Staff and Advisors](https://github.com/Harshad820/MOVIES_RENTAL_BUSINESS/blob/main/CODE_OUTPUT/30.png)
 
 ---
