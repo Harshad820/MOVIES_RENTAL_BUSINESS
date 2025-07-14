@@ -59,25 +59,25 @@ Retrieve customer first name, last name, and email ID.
 ![Customer Info](https://github.com/Harshad820/MOVIES_RENTAL_BUSINESS/blob/main/CODE_OUTPUT/1.png)
 
 ### 2. Count of Movies with Rental Rate of $0.99
-![Cheapest Rental](https://github.com/Athu087/Movies_rental/blob/1dfa0affc2a0cd10a1b955543baf23680ec0fcac/images/CHEAPEST_RENTAL.png)
+![Cheapest Rental](https://github.com/Harshad820/MOVIES_RENTAL_BUSINESS/blob/main/CODE_OUTPUT/2.png)
 
 ### 3. Rental Rate Distribution and Movie Count
-![Total Movies per Rental Rate](https://github.com/Athu087/Movies_rental/blob/1dfa0affc2a0cd10a1b955543baf23680ec0fcac/images/TOTAL_NO_OF_MOVIES.png)
+![Total Movies per Rental Rate](https://github.com/Harshad820/MOVIES_RENTAL_BUSINESS/blob/main/CODE_OUTPUT/3.png)
 
 ### 4. Most Common Movie Rating
-![Rating Count](https://github.com/Athu087/Movies_rental/blob/1dfa0affc2a0cd10a1b955543baf23680ec0fcac/images/rating_wise_count.png)
+![Rating Count](https://github.com/Harshad820/MOVIES_RENTAL_BUSINESS/blob/main/CODE_OUTPUT/4.png)
 
 ### 5. Most Prevalent Rating per Store
-![Rating per Store](https://github.com/Athu087/Movies_rental/blob/d5bf4597456956ee94bc974f6f54cd4122f0b2ff/images/rating_to_store.png)
+![Rating per Store](https://github.com/Harshad820/MOVIES_RENTAL_BUSINESS/blob/main/CODE_OUTPUT/5.png)
 
 ### 6. List of Films by Name, Category, and Language
-![Film List](https://github.com/Athu087/Movies_rental/blob/1dfa0affc2a0cd10a1b955543baf23680ec0fcac/images/TLC.png)
+![Film List](https://github.com/Harshad820/MOVIES_RENTAL_BUSINESS/blob/main/CODE_OUTPUT/6.png)
 
 ### 7. Movie Rental Frequency
-![Rental Popularity](https://github.com/Athu087/Movies_rental/blob/1dfa0affc2a0cd10a1b955543baf23680ec0fcac/images/popularity.png)
+![Rental Popularity](https://github.com/Harshad820/MOVIES_RENTAL_BUSINESS/blob/main/CODE_OUTPUT/7.png)
 
 ### 8. Top 10 Grossing Films
-![Revenue per Film](https://github.com/Athu087/Movies_rental/blob/1dfa0affc2a0cd10a1b955543baf23680ec0fcac/images/REVENUE.png)
+![Revenue per Film](https://github.com/Harshad820/MOVIES_RENTAL_BUSINESS/blob/main/CODE_OUTPUT/8.png)
 
 ### 9. Highest Spending Customer
 ![Most Spending Customer](https://github.com/Athu087/Movies_rental/blob/1dfa0affc2a0cd10a1b955543baf23680ec0fcac/images/MOST_SPENDING_CUSTOMER.png)
